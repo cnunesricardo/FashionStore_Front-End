@@ -1,0 +1,12 @@
+{
+    "short_name": "Fashion Store",
+    "name": "Fashion E-Store",
+    "start_url": "/",
+    "display": "browser",
+    "orientation": "portrait-primary",
+    "icons":{
+        "src": "next.svg", 
+        "size": "192x192", 
+        "type": "image/svg"
+    }
+}
